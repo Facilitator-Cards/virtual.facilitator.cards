@@ -59,6 +59,7 @@ public/
 bundle-stats.json
 
 .history
+.env
 .env.*
 .DS_Store
 package-lock.json
