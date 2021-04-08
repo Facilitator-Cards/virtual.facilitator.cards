@@ -47,7 +47,7 @@ module.exports = {
         tables: [
           {
             baseId: process.env.AIRTABLE_BASE, // specify via env
-            tableName: process.env.AIRTABLE_TABLE_NAME, // specify via env
+            tableName: 'Activities',
             queryName: `posts`, // optional
             tableLinks: [`Author`, `Replies`],
             mapping: {
@@ -60,7 +60,7 @@ module.exports = {
           },
           {
             baseId: process.env.AIRTABLE_BASE,
-            tableName: process.env.AIRTABLE_TABLE_NAME_LINKED,
+            tableName: 'Authors',
             tableLinks: [`Activities`],
           },
           {
