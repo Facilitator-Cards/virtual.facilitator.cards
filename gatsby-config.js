@@ -1,9 +1,7 @@
 /* eslint-disable global-require */
 const urljoin = require('url-join')
 const config = require('./data/SiteConfig')
-require('dotenv').config({
-  path: `.env.${process.env.NODE_ENV}`,
-})
+require('dotenv').config()
 
 const path = require(`path`)
 
