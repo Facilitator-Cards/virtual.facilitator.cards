@@ -33,7 +33,7 @@ class Index extends React.Component {
               </h1>
               <div className="md:p-6 md:mb-6 lg:mb-8 lg:mb-12 xl:mb-20 rounded prose" style={{background: 'rgba(255,255,255,.9)'}}>
                 <p>
-                  👋 &nbsp;Hi friend! Welcome to your new source of activities for easy, creative virtual facilitation on Zoom! Please poke around on the site, see what you find, and if you try out any of the activities you can share your learning right on this site. Join the <Link to={`/newsletter`}>free newsletter</Link> for updates and when new activities go live.                </p>
+                  👋 &nbsp;Hey Facilitator! Welcome to your new source of activities for easy, creative virtual facilitation on Zoom! Please poke around on the site, see what you find, and if you try out any of the activities you can share your learning right on this site. Join the <Link to={`/newsletter`}>free newsletter</Link> for updates and when new activities go live.                </p>
               </div>
             </div>
           </div>
