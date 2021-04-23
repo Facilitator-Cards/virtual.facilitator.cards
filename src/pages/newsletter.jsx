@@ -26,7 +26,7 @@ class NewsletterPage extends Component {
                     Virtual facilitation is a new challenge for a lot of us. To help you meet it head on, we developed this resource. <strong>If you want to be notified when new activities are added, join the newsletter be in the know as soon as they go live!</strong>
                   </p>
                   <p>
-                    We'll not only be posting new activities but also mini-agendas for a sequence of activities you can facilitate. If you sign up for the newsletter, you'll automatically get <a href="https://www.facilitator.cards/blog">our blog</a> in your inbox any week we post new content.                  </p>
+                    We'll not only be posting new activities but also occasionally we'll post mini-agendas for a sequence of activities you can facilitate. If you sign up for the newsletter, you'll automatically get <a href="https://www.facilitator.cards/blog">our blog</a> in your inbox any week we post new content.                  </p>
                   <p>
                     "A stack" is our shorthand for a sequence of cards, or a seamless flow of processes. Each stack we share here will give you ideas for virtually facilitating a group from <Link to={`/for/emotion`}>emotion</Link> to <Link to={`/for/ideation`}>ideation</Link> to <Link to={`/for/clarification`}>clarification</Link> to <Link to={`/for/execution`}>execution</Link>. We'll include the step-by-steps of each activity, as well as pointers for transitioning through the stack.
                   </p>

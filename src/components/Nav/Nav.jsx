@@ -28,7 +28,7 @@ class Nav extends Component {
                 <option>100 (Bad) Ideas</option>
                 {/* <option>Airport Signs</option> */}
                 {/* <option>Analogizing</option>*/} */}
-                <option>Anonymous Q&amp;A (soon)</option>
+                <option>Anonymous Q&amp;A</option>
                 {/* <option>Blank Clarification Card</option> */}
                 {/* <option>Blank Emotion Card</option> */}
                 {/* <option>Blank Execution Card</option> */}
