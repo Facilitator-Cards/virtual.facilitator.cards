@@ -30,7 +30,7 @@ class Nav extends Component {
                 {/* <option>Analogizing</option>*/} */}
                 <option>Anonymous Q&amp;A</option>
                 {/* <option>Blank Clarification Card</option> */}
-                {/* <option>Blank Emotion Card</option> */}
+                <option>Blank Emotion Card</option>
                 {/* <option>Blank Execution Card</option> */}
                 {/* <option>Blank Ideation Card</option> */}
                 <option>Case Studies</option>
@@ -46,7 +46,7 @@ class Nav extends Component {
                 <option>Echoed Dialogue</option>
                 <option>Fill in the Gap</option>
                 {/* <option>Fill in the Model</option> */}
-                <option>Finger Voting (soon)</option>
+                <option>Finger Voting</option>
                 <option>Fishbowl</option>
                 <option>Frequently Asked Questions (soon)</option>
                 <option>Gallery Exhibit</option>
@@ -70,7 +70,7 @@ class Nav extends Component {
                 <option>Reverse Engineering (soon)</option>
                 <option>Sharing Withholds (soon)</option>
                 {/* <option>Silent Reflection</option> */}
-                <option>Spectrum Questions (soon)</option>
+                <option>Spectrum Questions</option>
                 <option>Sticky Note Generator (soon)</option>
                 <option>Strike a Pose</option>
                 {/* <option>Subcommittees</option> */}
