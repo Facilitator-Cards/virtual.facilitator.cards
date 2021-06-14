@@ -100,7 +100,7 @@ class Footer extends Component {
         <section className="theme-font text-lg text-center">
           <div className="wrap py-12">
             <p className="mb-6">Facilitator Cards were developed in sunny Austin &amp; rainy Seattle. You can find us on <a href="https://www.facebook.com/facilitatorcards" title="Facebook">Facebook</a>, <a href="https://www.instagram.com/facilitatorcards" title="Instagram">Instagram</a>, & <a href="https://www.twitter.com/facilitatorcard" title="Twitter">Twitter</a>.</p>
-            <p>Facilitator Cards, PBC<br/> P.O. Box 688412<br/> Austin, TX 78768</p>
+            <p>Facilitator Cards, PBC<br/> P.O. Box 7897<br/> Tacoma, WA 98417</p>
           </div>
         </section>
       </footer>
