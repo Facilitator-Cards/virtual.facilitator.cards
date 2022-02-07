@@ -46,8 +46,8 @@ class Index extends React.Component {
           <aside className="sidebar relative md:-mt-6 md:pt-6">
             <div className="sticky top-0 pt-6 flex flex-wrap md:flex-col text-base">
               <Link className="btn btn-cta-alt mr-2 mb-2" to={`/newsletter`}>💌&nbsp; Join Newsletter</Link>
-              <a className="btn mr-2 mb-2" href="https://airtable.com/shrseBJBvstTx2kbX" target="_blank" rel="noopener noreferrer">🐞&nbsp;Report Bug</a>
-              <a className="btn mr-2 mb-2" href="https://airtable.com/shrkpcTZ2fd6wkLPV" target="_blank" rel="noopener noreferrer">🌱&nbsp; Suggest Improvement</a>
+              <a className="btn mr-2 mb-2" href="https://shop.facilitator.cards/products/facilitator-cards" target="_blank" rel="noopener noreferrer">👉&nbsp; Buy the Cards</a>
+              <a className="btn mr-2 mb-2" href="https://www.facilitator.cards/blog" target="_blank" rel="noopener noreferrer">🤓&nbsp; Read the Blog</a>
             </div>
           </aside>
         </section>
