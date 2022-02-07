@@ -44,9 +44,6 @@ class Index extends React.Component {
             <PostListing postEdges={latestPosts} />
           </div>
           <aside className="sidebar relative md:-mt-6 md:pt-6">
-            <p className="bg-white rounded mt-6 md:mt-0 md:p-4 leading-tight">
-              Quick heads up: <strong>this app is still in super-beta</strong>. (We really leaned into the <a className="underline hover:text-teal-600" href="https://www.facilitator.cards/cards/whats-the-mvp/" target="_blank" rel="noopener noreferrer">What's the MVP?</a> process, and decided it was <a className="underline hover:text-teal-600" href="https://www.facilitator.cards/cards/urgent-vs-important-grid/" target="_blank" rel="noopener noreferrer">Important <em>and</em> Urgent</a> to get this out to you now, even though it's not done.) 
-            </p>
             <div className="sticky top-0 pt-6 flex flex-wrap md:flex-col text-base">
               <a className="btn mr-2 mb-2" href="https://airtable.com/shrseBJBvstTx2kbX" target="_blank" rel="noopener noreferrer">🐞&nbsp;Report Bug</a>
               <a className="btn mr-2 mb-2" href="https://airtable.com/shrkpcTZ2fd6wkLPV" target="_blank" rel="noopener noreferrer">🌱&nbsp; Suggest Improvement</a>
