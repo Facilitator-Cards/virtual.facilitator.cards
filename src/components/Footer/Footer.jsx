@@ -15,16 +15,6 @@ class Footer extends Component {
             </nav>
           </div>
         </section>
-        <section id="by" className="relative py-12 lg:py-20 bg-gray-200 text-gray-900">
-          <div class="wrap">
-            <h3 className="theme-font leading-none text-2xl md:text-3xl lg:text-4xl font-black mb-2">
-              Facilitator Cards were created
-            </h3>
-            <p className="text-lg md:text-xl lg:text-2xl theme-font">
-              by the people behind <a className="text-black underline" target="_blank" rel="noopener noreferrer" href="http://www.facilitating.xyz" title="FacilitatingXYZ">Facilitating.XYZ</a>,<a className="text-black underline" target="_blank" rel="noopener noreferrer" href="http://www.facilitationmagic.com">Unlocking the Magic of Facilitation</a>, &amp; <a className="text-black underline" target="_blank" rel="noopener noreferrer" href="https://www.thesafezoneproject.com" title="The Safe Zone Project">The Safe Zone Project</a>. The ideas, processes, and resources that are shared on this site are uncopyrighted and open-source.
-            </p>
-          </div>
-        </section>
 
         <section id="footer-menu" className="relative">
           <div className="wrap pt-12 flex flex-wrap justify-between text-lg">
@@ -81,6 +71,9 @@ class Footer extends Component {
         </section>
         <section className="theme-font text-lg text-center">
           <div className="wrap py-12">
+          <p className="text-lg md:text-xl lg:text-2xl theme-font">
+              Facilitator Cards were created by the people behind <a className="text-black underline" target="_blank" rel="noopener noreferrer" href="http://www.facilitating.xyz" title="FacilitatingXYZ">Facilitating.XYZ</a>,<a className="text-black underline" target="_blank" rel="noopener noreferrer" href="http://www.facilitationmagic.com">Unlocking the Magic of Facilitation</a>, &amp; <a className="text-black underline" target="_blank" rel="noopener noreferrer" href="https://www.thesafezoneproject.com" title="The Safe Zone Project">The Safe Zone Project</a>. The ideas, processes, and resources that are shared on this site are uncopyrighted and open-source.
+            </p>
             <p className="mb-6">Facilitator Cards were developed in sunny Austin &amp; rainy Seattle. You can find us on <a href="https://www.facebook.com/facilitatorcards" title="Facebook">Facebook</a>, <a href="https://www.instagram.com/facilitatorcards" title="Instagram">Instagram</a>, & <a href="https://www.twitter.com/facilitatorcard" title="Twitter">Twitter</a>.</p>
             <p>Facilitator Cards, PBC<br/> P.O. Box 7897<br/> Tacoma, WA 98417</p>
           </div>
