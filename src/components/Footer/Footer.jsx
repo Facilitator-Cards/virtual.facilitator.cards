@@ -75,8 +75,8 @@ class Footer extends Component {
         </section>
         <section className="theme-font text-lg text-center">
           <div className="wrap py-12">
-            <p className="mb-6">Facilitator Cards were developed in sunny Austin &amp; rainy Seattle. You can find us on <a href="https://www.facebook.com/facilitatorcards" title="Facebook">Facebook</a>, <a href="https://www.instagram.com/facilitatorcards" title="Instagram">Instagram</a>, & <a href="https://www.twitter.com/facilitatorcard" title="Twitter">Twitter</a>.</p>
-            <p>Facilitator Cards, PBC<br/> P.O. Box 7897<br/> Tacoma, WA 98417</p>
+            <p className="mb-6">Facilitator Cards are facilitated from Vermont 🍁 . You can find us on <a href="https://www.instagram.com/facilitatorcards" title="Instagram">Instagram</a>, <a href="https://www.youtube.com/facilitatorcards" title="YouTube">YouTube</a>, and <a href="https://www.linkedin.com/company/facilitatorcards" title="LinkedIn">LinkedIn</a>.
+            <p>Facilitator Cards, PBC<br/> 32 Main Street #171<br/> Montpelier, VT 05602</p>
           </div>
         </section>
       </footer>
