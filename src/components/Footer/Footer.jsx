@@ -25,25 +25,7 @@ class Footer extends Component {
             </p>
           </div>
         </section>
-        <section id="uncopyright" className="relative py-12 lg:py-20 bg-gray-900">
-          <div className="wrap lg:flex">
-            <div className="theme-font">
-              <h3 className="theme-font leading-none text-2xl md:text-3xl lg:text-4xl font-black mb-2">
-                &amp; offered in the Gift
-              </h3>
-              <p className="text-lg md:text-xl lg:text-2xl theme-font">
-                like everything else we make. The ideas, processing tools<strong className="text-red-500">*</strong>, and resources we've created &amp; shared on this site are&nbsp;
-                <a className="text-black underline" target="_blank" rel="noopener noreferrer" rel="license" href="https://uncopyright.org/notice/?uwn=www.facilitator.cards&?uwc=Sam+Killermann+%26+Meg+Bolger" title="View Uncopyright Notice">uncopyrighted</a> &amp;&nbsp;
-                <a className="text-black underline" target="_blank" rel="noopener noreferrer" href="https://github.com/killermann/virtual.facilitator.cards" title="View Source Code">open-source</a>. We release any rights we have, and you're empowered to share, modify, reprint, and improve &mdash; no permission needed, it's yours, our <a href="https://en.wikipedia.org/wiki/Gift_economy" title="Wikipedia Article about Gift Economy" target="_blank" rel="noopener noreferrer">gift</a> to you.
-              </p>
-            </div>
-            <div id="card-license" className="flex mt-8 lg:ml-12 justify-center items-center">
-              <p className="md:text-lg theme-font">
-                <strong className="text-red-500">*</strong>Most of processes on the cards are ways facilitators have been engaging with groups for decades, learning from one another &amp; improving collectively, so they're hard to pin down to one "creator." We'll denote when a process has IP restrictions, and work to honor lineages of ideas. Want to help? Email <a className="text-black underline" target="_blank" rel="noopener noreferrer" href="mailto:hello@facilitator.cards">hello@facilitator.cards</a> with your story of a particular process. 
-              </p>
-            </div>
-          </div>   
-        </section>
+
         <section id="footer-menu" className="relative">
           <div className="wrap pt-12 flex flex-wrap justify-between text-lg">
             <ul className="theme-font pb-12">
