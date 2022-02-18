@@ -21,7 +21,7 @@ class Footer extends Component {
               Facilitator Cards were created
             </h3>
             <p className="text-lg md:text-xl lg:text-2xl theme-font">
-              by the same two humans behind <a className="text-black underline" target="_blank" rel="noopener noreferrer" href="http://www.facilitating.xyz" title="FacilitatingXYZ">Facilitating.XYZ</a> (a free online resource for all facilitators), <a className="text-black underline" target="_blank" rel="noopener noreferrer" href="http://www.facilitationmagic.com">Unlocking the Magic of Facilitation</a> (book about key facilitator concepts), &amp; <a className="text-black underline" target="_blank" rel="noopener noreferrer" href="https://www.thesafezoneproject.com" title="The Safe Zone Project">The Safe Zone Project</a> (free curriculum &amp; train-the-trainer retreat guide).
+              by the people behind <a className="text-black underline" target="_blank" rel="noopener noreferrer" href="http://www.facilitating.xyz" title="FacilitatingXYZ">Facilitating.XYZ</a>,<a className="text-black underline" target="_blank" rel="noopener noreferrer" href="http://www.facilitationmagic.com">Unlocking the Magic of Facilitation</a>, &amp; <a className="text-black underline" target="_blank" rel="noopener noreferrer" href="https://www.thesafezoneproject.com" title="The Safe Zone Project">The Safe Zone Project</a>. The ideas, processes, and resources that are shared on this site are uncopyrighted and open-source.
             </p>
           </div>
         </section>
