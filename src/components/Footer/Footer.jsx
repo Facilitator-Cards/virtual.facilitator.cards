@@ -9,8 +9,8 @@ class Footer extends Component {
           <div className="wrap griddled">
             <nav className="pt-8 pb-4 flex flex-wrap justify-center items-center">
               <a className="btn text-lg btn-cta mr-4 mb-4" href="https://airtable.com/shrLdKbYqRPR6ssaL" target="_blank" rel="noopener noreferrer">🎁&nbsp;Submit Activity</a>
-              <a className="btn text-lg mr-4 mb-4" href="https://airtable.com/shrseBJBvstTx2kbX" target="_blank" rel="noopener noreferrer">🐞&nbsp;Report Bug</a>
-              <a className="btn text-lg mr-4 mb-4" href="https://airtable.com/shrkpcTZ2fd6wkLPV" target="_blank" rel="noopener noreferrer">🌱&nbsp; Suggest Improvement</a>
+              <a className="btn text-lg mr-4 mb-4" href="https://shop.facilitator.cards/products/facilitator-cards" target="_blank" rel="noopener noreferrer">👉&nbsp;Buy the Cards</a>
+              <a className="btn text-lg mr-4 mb-4" href="https://www.facilitator.cards/blog" target="_blank" rel="noopener noreferrer">🤓&nbsp; Read the Blog</a>
               <Link className="btn btn-cta-alt text-lg btn-cta mr-4 mb-4" to={`/newsletter`}>💌&nbsp; Join Newsletter</Link>
             </nav>
           </div>
