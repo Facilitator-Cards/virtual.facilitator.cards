@@ -15,11 +15,7 @@ class Footer extends Component {
             </nav>
           </div>
         </section>
-        <section className="theme-font text-lg text-left">
-          <div className="wrap py-12">
-            <p className="mb-6">Facilitator Cards were created by the people behind <a className="text-black underline" target="_blank" rel="noopener noreferrer" href="http://www.facilitating.xyz" title="FacilitatingXYZ">Facilitating.XYZ</a>,<a className="text-black underline" target="_blank" rel="noopener noreferrer" href="http://www.facilitationmagic.com">Unlocking the Magic of Facilitation</a>, &amp; <a className="text-black underline" target="_blank" rel="noopener noreferrer" href="https://www.thesafezoneproject.com" title="The Safe Zone Project">The Safe Zone Project</a>. The ideas, processes, and resources that are shared on this site are uncopyrighted and open-source. </p>
-          </div>
-        </section>
+        
         <section id="footer-menu" className="relative">
           <div className="wrap pt-12 flex flex-wrap justify-between text-lg">
             <ul className="theme-font pb-12">
@@ -73,6 +69,10 @@ class Footer extends Component {
             </p>
           </div>     
         </section>
+        <section className="theme-font text-lg text-left">
+          <div className="wrap py-12">
+            <p className="mb-6">Facilitator Cards were created by the people behind <a className="text-black underline" target="_blank" rel="noopener noreferrer" href="http://www.facilitating.xyz" title="FacilitatingXYZ">Facilitating.XYZ</a>,<a className="text-black underline" target="_blank" rel="noopener noreferrer" href="http://www.facilitationmagic.com">Unlocking the Magic of Facilitation</a>, &amp; <a className="text-black underline" target="_blank" rel="noopener noreferrer" href="https://www.thesafezoneproject.com" title="The Safe Zone Project">The Safe Zone Project</a>. The ideas, processes, and resources that are shared on this site are uncopyrighted and open-source. </p>
+          </div>
         <section className="theme-font text-lg text-center">
           <div className="wrap py-12">
             <p className="mb-6">Facilitator Cards were developed in sunny Austin &amp; rainy Seattle. You can find us on <a href="https://www.facebook.com/facilitatorcards" title="Facebook">Facebook</a>, <a href="https://www.instagram.com/facilitatorcards" title="Instagram">Instagram</a>, & <a href="https://www.twitter.com/facilitatorcard" title="Twitter">Twitter</a>.</p>
