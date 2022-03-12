@@ -48,7 +48,7 @@ class Nav extends Component {
                 {/* <option>Fill in the Model</option> */}
                 <option>Finger Voting</option>
                 <option>Fishbowl</option>
-                <option>Frequently Asked Questions (soon)</option>
+                <option>Frequently Asked Questions</option>
                 <option>Gallery Exhibit</option>
                 {/* <option>Generate a List</option> */}
                 <option>Go-Around Share (soon)</option>
