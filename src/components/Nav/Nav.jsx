@@ -27,7 +27,7 @@ class Nav extends Component {
                 <option>10/10/10 Analysis</option>
                 <option>100 Ideas</option>
                 {/* <option>Airport Signs</option> */}
-                {/* <option>Analogizing</option>*/} */}
+                <option>Analogizing</option>
                 <option>Anonymous Q&amp;A</option>
                 {/* <option>Blank Clarification Card</option> */}
                 <option>Blank Emotion Card</option>
@@ -67,7 +67,7 @@ class Nav extends Component {
                 {/* <option>Pro/Con Lists</option> */}
                 <option>Rank Order Voting (soon)</option>
                 <option>Red Team vs. Blue Team</option>
-                <option>Reverse Engineering (soon)</option>
+                <option>Reverse Engineering</option>
                 <option>Sharing Withholds (soon)</option>
                 {/* <option>Silent Reflection</option> */}
                 <option>Spectrum Questions</option>
