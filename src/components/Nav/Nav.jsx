@@ -25,7 +25,7 @@ class Nav extends Component {
                 <option>4 Squares</option>
                 <option>5 Whys (soon)</option>
                 <option>10/10/10 Analysis</option>
-                <option>100 (Bad) Ideas</option>
+                <option>100 Ideas</option>
                 {/* <option>Airport Signs</option> */}
                 {/* <option>Analogizing</option>*/} */}
                 <option>Anonymous Q&amp;A</option>
