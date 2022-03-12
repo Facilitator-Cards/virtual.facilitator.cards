@@ -30,7 +30,7 @@ class Nav extends Component {
                 <option>Analogizing</option>
                 <option>Anonymous Q&amp;A</option>
                 {/* <option>Blank Clarification Card</option> */}
-                <option>Blank Emotion Card</option>
+                {/* <option>Blank Emotion Card</option> */}
                 {/* <option>Blank Execution Card</option> */}
                 {/* <option>Blank Ideation Card</option> */}
                 <option>Case Studies</option>
